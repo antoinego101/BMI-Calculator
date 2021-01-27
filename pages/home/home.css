@@ -1,14 +1,19 @@
 ion-content{
-  background: linear-gradient(to bottom, #4DA0B0, #D39D38);
+  background: linear-gradient(to right, #56ccf2, #2f80ed); 
 }
-  h2{
-  color: black;
-  background-color: blue;
+h2{
+  background: blue;
   text-align: center;
+  color: white;
   }
-
 p{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: justify;
-  color: #8E0E00;
+  color: blu;
+}
+a{
+  color: black;
+}
+ion-item{
+  background-color: blueviolet;
 }
