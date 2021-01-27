@@ -2,8 +2,9 @@ ion-content{
   background: linear-gradient(to bottom, #4DA0B0, #D39D38);
 }
   h2{
-  color:#ff9068;
+  color: black;
   background-color: blue;
+  text-align: center;
   }
 
 p{
